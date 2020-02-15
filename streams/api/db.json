@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "The most awesome stream ever!",
+      "id": 1
+    },
+    {
+      "title": "Streamaholic",
+      "description": "Stop, drop and watch now!",
+      "id": 2
+    },
+    {
+      "title": "History object",
+      "description": "I was redirected by history object!",
+      "userId": "8509687463216984",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "8509687463216984",
+      "id": 5
+    }
+  ]
+}
